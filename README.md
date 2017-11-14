@@ -1,4 +1,4 @@
-A Web Crawler for Heriditas journal available at https://hereditasjournal.biomedcentral.com/.
+<b>A Web Crawler for Heriditas journal</b> available at https://hereditasjournal.biomedcentral.com/.
 
 The crawler extracts the data related to all the articles in the journal.
 
@@ -14,6 +14,6 @@ Crawler_Main.R:
 Extract_Data.R:
 	This script scans the crawled files and extracts data and create a data frame. Aditionally it writes the data frame a text file.
 
-Steps:
+<b>Steps:</b>
 1. Execute Crawled_Main.R to save the .html files in a new folder "Crawled Files".
 2. Then execute Extract_data.R to extract the data and store it in "Hereditas.txt" file.)
